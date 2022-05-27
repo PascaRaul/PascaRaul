@@ -1,12 +1,11 @@
-### Hi there 👋, Pasca Raul
-#### Development
-I am Raul and I do web development, python scripts. I really enjoy learning new skills related to IT, languages and frameworks.
+# Pasca Raul
+I'm Raul and I do web development, python scripts. I really enjoy learning new skills related to IT, languages and frameworks.
 
 ## Skills and Experience
-💻 HTML, CSS, JavaScript
-⚛  React
-🐍 Python
-🍓 Raspberry pi, Linux
+* 💻 HTML, CSS, JavaScript
+* ⚛  React
+* 🐍 Python
+* 🍓 Raspberry pi, Linux
 
 
 - 🔭 I’m currently working on Huawei Technologies Co., Ltd 
