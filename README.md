@@ -8,7 +8,7 @@ I'm Raul and I do web development, python scripts. I really enjoy learning new s
 * 🍓 Raspberry pi, Linux
 
 
-- 🔭 I’m currently working on Huawei Technologies Co., Ltd 
+- 🔭 I’m currently working on Vodafone Intelligent Solutions (VOIS) 
 - 🌱 I’m currently learning React 
 
 
