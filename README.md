@@ -1,4 +1,4 @@
-# Pasca Raul
+# Pașca Raul
 I'm Raul and I do web development, python scripts. I really enjoy learning new skills related to IT, languages and frameworks.
 
 ## Skills and Experience
